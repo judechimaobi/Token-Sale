@@ -1,0 +1,21 @@
+{
+	"name": "big-token-sale",
+	"Version": "1.0.0",
+	"description": "Big Token Sale ICO",
+	"main": "truffle.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"author": "Jude Chimaobi",
+	"liscence": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.3.0"
+	},
+	"dependencies": {
+		"@truffle/contract": "^4.6.31",
+		"web3": "^4.7.0"
+	}
+}
